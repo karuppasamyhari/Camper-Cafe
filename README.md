@@ -1,6 +1,6 @@
 # Camper Cafe - FreeCodeCamp Project
 ![Camper Cafe Logo](https://github.com/karuppasamyhari/Camper-Cafe/assets/86235041/59fdb471-b01d-41db-b898-4605911cfb6f)
-)
+[View the Camper Cafe](https://karuppasamyhari.github.io/Camper-Cafe/)
 
 Welcome to the Camper Cafe project, created as part of the FreeCodeCamp curriculum. This project focuses on building a website for a fictional coffee shop called "Camper Cafe." The purpose of this project is to showcase the skills and knowledge acquired through the FreeCodeCamp curriculum, specifically in the area of web development.
 
