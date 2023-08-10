@@ -29,8 +29,8 @@ The Camper Cafe project is built using a combination of technologies, including:
 
 To run the Camper Cafe project on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/camper-cafe.git`
-2. Navigate to the project directory: `cd camper-cafe`
+1. Clone the repository: `git clone https://github.com/karuppasamyhari/Camper-Cafe.git`
+2. Navigate to the project directory: `cd Camper-Cafe`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Learning Experience
